@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dom4j-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librairies locales/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies locales/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies locales/jaxb-core-2.3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
